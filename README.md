@@ -1,1 +1,1 @@
-# proto
+# The sub-module repo
